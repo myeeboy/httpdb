@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="WEB-INF/lib/c3p0.jar"/>
+	<classpathentry kind="lib" path="WEB-INF/lib/dom4j.jar"/>
+	<classpathentry kind="lib" path="WEB-INF/lib/httpdb.jar"/>
+	<classpathentry kind="lib" path="WEB-INF/lib/log4j.jar"/>
+	<classpathentry kind="lib" path="WEB-INF/lib/mysql.jar"/>
+	<classpathentry kind="output" path="WEB-INF/classes"/>
+</classpath>
